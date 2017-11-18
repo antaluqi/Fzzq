@@ -1,0 +1,2 @@
+.foundersc.com;FRONT_SSO_ID;/;;False;765609557648
+trade.foundersc.com;ASP.NET_SessionId;/;;False;s5xknnel0cejjd55lppdui55
